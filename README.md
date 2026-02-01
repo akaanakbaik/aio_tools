@@ -38,7 +38,7 @@ A comprehensive, all-in-one security testing and penetration testing toolkit bui
 ### Automatic Installation (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aiotools.git
+git clone https://github.com/akaanakbaik/aio_tools.git
 cd aiotools
 
 # Run setup script
